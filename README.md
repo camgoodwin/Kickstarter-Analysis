@@ -14,7 +14,7 @@ More campaigns are launched with smaller goal amounts.  Campaigns with a goal le
 ### Challenges and Difficulties Encountered
 A challenge that I did encounter was structuring the COUNTIFS statement correctly to ensure that I was inspecting the entire range for the goal amount.  In order to overcome this challenge, I watched the video that was provided within the module to clear up the confusion.  Another difficulty I faced was that the graph for the “Outcomes Based on Launch Date” was not matching the result I was supposed to have.  In order to clear up this issue I went to chart types and discovered that my graph was stacked creating a different result.    
 ## Results
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### What are two conclusions you can draw about the Outcomes based on Launch Date?
 One conclusion is the number of cancellations throughout the year remain consistent and low.  Another conclusion is the summer months of May, June, and July is the ideal time frame for a successful theater campaign.   
 ### What can you conclude about the Outcomes based on Goals?
 The goal amount needs to be under $14,999 in order to have at least a 54% chance of being successful.  Campaigns with a goal amount of over $45,000 have a starting failure rate of 88%. 
